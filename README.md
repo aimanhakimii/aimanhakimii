@@ -18,15 +18,25 @@
 - Brand: **AIMDEVX**
 - Open to: Collaboration on web products, dashboards, and business systems
 
-### Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-E07A5F?style=for-the-badge&logoColor=white" alt="line"/>
+</p>
+
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,tailwind,bootstrap,html,css&theme=dark" alt="Tech Stack Icons" />
+</p>
+
+<h3 align="center">AI-Powered Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude_Code-C96A4A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-E07A5F?style=for-the-badge&logoColor=white" alt="line"/>
 </p>
 
 ### What I Do
