@@ -18,9 +18,6 @@
 - Brand: **AIMDEVX**
 - Open to: Collaboration on web products, dashboards, and business systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-E07A5F?style=for-the-badge&logoColor=white" alt="line"/>
-</p>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
@@ -33,10 +30,6 @@
   <img src="https://img.shields.io/badge/Claude_Code-C96A4A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-E07A5F?style=for-the-badge&logoColor=white" alt="line"/>
 </p>
 
 ### What I Do
