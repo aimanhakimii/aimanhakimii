@@ -1,17 +1,22 @@
 <h1 align="center">AIMAN HAKIMI</h1>
-<h3 align="center">Frontend & Backend Developer | AIMDEVX</h3>
+<h3 align="center">Software Developer | Designer & Programmer | AIMDEVX</h3>
 
 <p align="center">
-  Building clean, practical web solutions with Laravel, React, and modern UI frameworks.
+  I design experiences and build software that is clean, useful, and production-ready.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aimanhakimii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### About Me
 - Name: **Aiman Hakimi**
+- Identity: **Designer & Programmer**
+- Role: **Software Developer**
 - Brand: **AIMDEVX**
-- Focus: Full-stack web development with clean architecture and maintainable UI
-- Open to: Collaboration on web apps, internal tools, and product MVPs
+- Open to: Collaboration on web products, dashboards, and business systems
 
 ### Tech Stack
 <p>
@@ -24,15 +29,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Current Focus
-- Developing fast and scalable Laravel applications
-- Building responsive React interfaces with reusable components
-- Improving UX with modern styling systems (Tailwind + Bootstrap)
+### What I Do
+- Design modern, user-friendly interfaces
+- Build robust software using Laravel and React
+- Convert ideas into fast, maintainable, real-world products
 
 ### GitHub Overview
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aimanhakimii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhakimii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanhakimii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### Connect
@@ -41,5 +50,5 @@
 ---
 
 <p align="center">
-  <i>"Code with clarity. Build with purpose."</i>
+  <i>Design with intention. Build with precision.</i>
 </p>
