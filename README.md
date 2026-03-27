@@ -16,7 +16,6 @@
 - Identity: **Designer & Programmer**
 - Role: **Software Developer**
 - Personal Website : **aimdevx.com**
-- Open to: Collaboration on web products, dashboards, and business systems
 
 
 <h3 align="center">Tech Stack</h3>
