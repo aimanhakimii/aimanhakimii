@@ -1,4 +1,4 @@
-<h1 align="center">AIMAN HAKIMI - AIMDEVX</h1>
+<h1 align="center">AIMAN HAKIMI / AIMDEVX</h1>
 <h3 align="center">Software Developer | Designer & Programmer </h3>
 
 <p align="center">
