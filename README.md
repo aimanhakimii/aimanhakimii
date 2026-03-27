@@ -15,7 +15,7 @@
 - Name: **Aiman Hakimi**
 - Identity: **Designer & Programmer**
 - Role: **Software Developer**
-- Brand: **AIMDEVX**
+- Personal Website : **aimdevx.com**
 - Open to: Collaboration on web products, dashboards, and business systems
 
 
