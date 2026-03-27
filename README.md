@@ -1,5 +1,5 @@
-<h1 align="center">AIMAN HAKIMI</h1>
-<h3 align="center">Software Developer | Designer & Programmer | AIMDEVX</h3>
+<h1 align="center">AIMAN HAKIMI - AIMDEVX</h1>
+<h3 align="center">Software Developer | Designer & Programmer </h3>
 
 <p align="center">
   I design experiences and build software that is clean, useful, and production-ready.
