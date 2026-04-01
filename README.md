@@ -36,15 +36,6 @@
 - Build robust software using Laravel and React
 - Convert ideas into fast, maintainable, real-world products
 
-### GitHub Overview
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aimanhakimii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhakimii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanhakimii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### Connect
 - GitHub: **[@aimanhakimii](https://github.com/aimanhakimii)**
