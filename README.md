@@ -11,13 +11,6 @@
 
 ---
 
-### About Me
-- Name: **Aiman Hakimi**
-- Identity: **Designer & Programmer**
-- Role: **Software Developer**
-- Personal Website : **aimdevx.com**
-
-
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,react,tailwind,bootstrap,html,css&theme=dark" alt="Tech Stack Icons" />
