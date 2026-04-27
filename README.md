@@ -23,12 +23,6 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
-### What I Do
-- Design modern, user-friendly interfaces
-- Build robust software using Laravel and React
-- Convert ideas into fast, maintainable, real-world products
-
-
 ### Connect
 - GitHub: **[@aimanhakimii](https://github.com/aimanhakimii)**
 
