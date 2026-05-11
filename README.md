@@ -2,10 +2,6 @@
 <h3 align="center">Web Developer | Designer & Programmer </h3>
 
 <p align="center">
-  I design experiences and build software that is clean, useful, and production-ready.
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aimanhakimii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
