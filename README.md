@@ -1,24 +1,31 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="AIMDEVX — Aiman Hakimi · Web Developer · Designer · Programmer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=C4785A&text=AIMDEVX&fontSize=78&fontColor=0A0A0B&animation=twinkling&fontAlignY=38&desc=DESIGN%20%2F%20CODE%20%2F%20SYSTEMS&descAlignY=62&descSize=16&descColor=0A0A0B" alt="AIMDEVX" />
 </p>
 
 <p align="center">
+  <img src="./assets/hero.jpg" alt="Aiman Hakimi — Available for work. Web Developer, Designer, Programmer." width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2400&pause=700&color=C4785A&center=true&vCenter=true&width=720&lines=AIMDEVX;Design+with+intention.;Build+with+precision.;Laravel+%C2%B7+React+%C2%B7+Next.js;Available+for+work." alt="AIMDEVX typing tagline" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-C4785A?style=for-the-badge&labelColor=0A0A0B" alt="Available" />
+  <img src="https://img.shields.io/badge/BASED-PENANG-0A0A0B?style=for-the-badge&labelColor=C4785A" alt="Penang" />
   <a href="https://aimdevx.com">
-    <img src="https://img.shields.io/badge/aimdevx.com-0A0A0B?style=for-the-badge&logo=googlechrome&logoColor=C4785A" alt="aimdevx.com" />
+    <img src="https://img.shields.io/badge/SITE-aimdevx.com-0A0A0B?style=for-the-badge&logo=googlechrome&logoColor=C4785A" alt="aimdevx.com" />
   </a>
-  <a href="https://github.com/aimanhakimii">
-    <img src="https://img.shields.io/badge/GitHub-aimanhakimii-0A0A0B?style=for-the-badge&logo=github&logoColor=C4785A" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aimanhakimii&label=Profile%20Views&color=C4785A&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aimanhakimii&label=PROFILE+VIEWS&color=C4785A&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=C4785A&center=true&vCenter=true&width=640&lines=Design+with+intention.+Build+with+precision.;Laravel+%C2%B7+React+%C2%B7+Next.js;Turning+ideas+into+production-ready+software." alt="Typing tagline" />
+  <img src="./assets/terminal.svg" alt="AIMDEVX terminal: whoami, status, mission" width="100%" />
 </p>
 
----
-
-<h2 align="center">Stack</h2>
+<p align="center">
+  <img src="./assets/label-stack.svg" alt="01 Arsenal" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend stack" />
@@ -33,44 +40,59 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
----
-
-<h2 align="center">Selected Work</h2>
+<p align="center">
+  <img src="./assets/label-work.svg" alt="02 Selected Work" width="100%" />
+</p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Cikgu Afifi Digital</h3>
-      <p>Live storefront for educational downloads — category filters, product discovery, and a WhatsApp ordering flow.</p>
-      <p>
-        <a href="https://digital.aimdevx.com"><strong>Live site →</strong></a>
+      <a href="https://digital.aimdevx.com">
+        <img src="./assets/work-01.jpg" alt="01 Cikgu Afifi Digital — live storefront" width="100%" />
+      </a>
+      <p align="center">
+        <a href="https://digital.aimdevx.com"><strong>Live store →</strong></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>AIMDEVX Studio</h3>
-      <p>Personal site for client work, digital products, and design systems. Built around a clean, purpose-led brand.</p>
-      <p>
+      <a href="https://aimdevx.com">
+        <img src="./assets/work-02.jpg" alt="02 AIMDEVX Studio" width="100%" />
+      </a>
+      <p align="center">
         <a href="https://aimdevx.com"><strong>aimdevx.com →</strong></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Ordering System</h3>
-      <p>PHP ordering and operations system — auth, menu, walk-in flow, dashboard, and reporting.</p>
-      <p>
+      <a href="https://github.com/aimanhakimii/orderingSystem">
+        <img src="./assets/work-03.jpg" alt="03 Ordering System — PHP operations" width="100%" />
+      </a>
+      <p align="center">
         <a href="https://github.com/aimanhakimii/orderingSystem"><strong>Repository →</strong></a>
       </p>
     </td>
   </tr>
 </table>
 
----
-
 <p align="center">
-  <a href="https://aimdevx.com"><strong>Website</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/aimanhakimii"><strong>GitHub</strong></a>
+  <img src="./assets/label-connect.svg" alt="03 Connect" width="100%" />
 </p>
 
 <p align="center">
-  <i>Design with intention. Build with precision.</i>
+  <a href="https://aimdevx.com">
+    <img src="https://img.shields.io/badge/Website-aimdevx.com-C4785A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/aimanhakimii">
+    <img src="https://img.shields.io/badge/GitHub-aimanhakimii-0A0A0B?style=for-the-badge&logo=github&logoColor=C4785A" alt="GitHub" />
+  </a>
+  <a href="https://digital.aimdevx.com">
+    <img src="https://img.shields.io/badge/Store-digital.aimdevx.com-0A0A0B?style=for-the-badge" alt="Digital store" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=C4785A&section=footer" alt="" />
+</p>
+
+<p align="center">
+  <b>Design with intention. Build with precision.</b>
 </p>
