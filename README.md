@@ -1,10 +1,4 @@
-<img width="100%" src="./assets/banner.jpg" alt="AIMDEVX — Aiman Hakimi, Web Developer, Designer, Programmer" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=800&color=C4785A&center=true&vCenter=true&width=680&lines=Web+Developer+%7C+Designer+%7C+Programmer;Laravel+%C2%B7+React+%C2%B7+Next.js;Design+with+intention.+Build+with+precision.;Available+for+work." alt="typing" />
-</p>
-
-## 🎯 About Me
 
 <table>
 <tr>
