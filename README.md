@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=C4785A&text=AIMDEVX&fontSize=78&fontColor=0A0A0B&animation=twinkling&fontAlignY=38&desc=DESIGN%20%2F%20CODE%20%2F%20SYSTEMS&descAlignY=62&descSize=16&descColor=0A0A0B" alt="AIMDEVX" />
-</p>
-
-<p align="center">
   <img src="./assets/hero.jpg" alt="Aiman Hakimi — Available for work. Web Developer, Designer, Programmer." width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2400&pause=700&color=C4785A&center=true&vCenter=true&width=720&lines=AIMDEVX;Design+with+intention.;Build+with+precision.;Laravel+%C2%B7+React+%C2%B7+Next.js;Available+for+work." alt="AIMDEVX typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=700&color=C4785A&center=true&vCenter=true&width=560&height=32&lines=Design+with+intention.+Build+with+precision.;Laravel+%C2%B7+React+%C2%B7+Next.js" alt="AIMDEVX typing tagline" />
 </p>
 
 <p align="center">
@@ -90,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=C4785A&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C4785A&section=footer" alt="" />
 </p>
 
 <p align="center">
