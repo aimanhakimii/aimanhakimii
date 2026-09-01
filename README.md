@@ -39,30 +39,21 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Cikgu Afifi Digital</h3>
       <p>Live storefront for educational downloads — category filters, product discovery, and a WhatsApp ordering flow.</p>
       <p>
         <a href="https://digital.aimdevx.com"><strong>Live site →</strong></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>AIMDEVX Studio</h3>
       <p>Personal site for client work, digital products, and design systems. Built around a clean, purpose-led brand.</p>
       <p>
         <a href="https://aimdevx.com"><strong>aimdevx.com →</strong></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Wedding Project</h3>
-      <p>Next.js + TypeScript wedding experience — structured frontend, reusable UI, and a production-ready app setup.</p>
-      <p>
-        <a href="https://github.com/aimanhakimii/weddingproject"><strong>Repository →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Ordering System</h3>
       <p>PHP ordering and operations system — auth, menu, walk-in flow, dashboard, and reporting.</p>
       <p>
@@ -71,15 +62,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimanhakimii&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=C4785A&icon_color=C4785A&text_color=D4D4D4&ring_color=C4785A" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhakimii&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=C4785A&text_color=D4D4D4" alt="Top languages" height="170" />
-</p>
 
 ---
 
