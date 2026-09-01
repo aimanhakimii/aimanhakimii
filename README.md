@@ -39,10 +39,6 @@ const aiman = {
 </tr>
 </table>
 
-<br>
-
-## 🛠️ Tech Arsenal
-
 <table align="center">
 <tr>
 <td width="50%" align="center">
